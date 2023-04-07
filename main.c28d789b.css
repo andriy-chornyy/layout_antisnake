@@ -1,0 +1,2 @@
+.body{margin:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}@media (min-width:900px){.body{grid-template-columns:repeat(3,minmax(300px,1fr))}}.block{display:grid;place-items:center;min-height:300px;font-family:Arial,sans-serif;font-size:100px;color:#fff}.block--1{background:red}.block--2{background:#c00}.block--3{background:#900}.block--4{background:#600}.block--5{background:#300}.block--6{background:#000}
+/*# sourceMappingURL=main.c28d789b.css.map */
